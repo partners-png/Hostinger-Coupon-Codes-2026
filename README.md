@@ -8,11 +8,11 @@
 
 | Product | Coupon Code | Discount Applied To |
 |---|---|---|
-| [Hostinger Horizons](https://hostinger.com/YOUR-HORIZONS-LINK) | `vibecodersnest` | AI no-code web app builder |
+| [Hostinger Horizons](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395) | `vibecodersnest` | AI no-code web app builder |
 | [Hostinger Website Builder](https://hostinger.com/YOUR-BUILDER-LINK) | `buildersnest` | Drag-and-drop website builder |
-| [Hostinger VPS Hosting](https://hostinger.com/YOUR-VPS-LINK) | `vpsnest` | All KVM VPS plans |
+| [Hostinger VPS Hosting](https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=2495) | `vpsnest` | All KVM VPS plans |
 
-**How to use:** Go to [hostinger.com](https://hostinger.com/YOUR-HORIZONS-LINK) → pick your plan → at checkout click **"Have a promo code?"** → enter your code → click **Apply**.
+**How to use:** Go to [hostinger.com](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395)) → pick your plan → at checkout click **"Have a promo code?"** → enter your code → click **Apply**.
 
 ---
 
@@ -28,12 +28,12 @@ It's built for the vibe coding era: people who want to ship real products fast, 
 
 | Plan | Monthly Price | AI Messages | Sites |
 |---|---|---|---|
-| [Explorer](https://hostinger.com/YOUR-HORIZONS-LINK) | From $6.99/mo | 30/mo | 1 |
-| [Starter](https://hostinger.com/YOUR-HORIZONS-LINK) | From $13.99/mo | 70/mo | 3 |
-| [Hobbyist](https://hostinger.com/YOUR-HORIZONS-LINK) | From $39.99/mo | 200/mo | 10 |
-| [Hustler](https://hostinger.com/YOUR-HORIZONS-LINK) | From $99.99/mo | 400/mo | 50 |
+| [Explorer](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395) | From $6.99/mo | 30/mo | 1 |
+| [Starter](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395) | From $13.99/mo | 70/mo | 3 |
+| [Hobbyist](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395) | From $39.99/mo | 200/mo | 10 |
+| [Hustler](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395) | From $99.99/mo | 400/mo | 50 |
 
-👉 **[Get Hostinger Horizons + apply code `vibecodersnest` at checkout](https://hostinger.com/YOUR-HORIZONS-LINK)**
+👉 **[Get Hostinger Horizons + apply code `vibecodersnest` at checkout](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395)**
 
 ### Who Is Horizons For?
 
@@ -51,7 +51,7 @@ It's built for the vibe coding era: people who want to ship real products fast, 
 | Coding needed | No | No |
 | Best use case | Custom functionality, apps | Blogs, portfolios, business sites |
 | Coupon code | `vibecodersnest` | `buildersnest` |
-| Link | [Get Horizons](https://hostinger.com/YOUR-HORIZONS-LINK) | [Get Website Builder](https://hostinger.com/YOUR-BUILDER-LINK) |
+| Link | [Get Horizons](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395) | [Get Website Builder](https://hostinger.com/YOUR-BUILDER-LINK) |
 
 ---
 
@@ -100,12 +100,12 @@ Full root access means you can run anything: Node.js apps, Python backends, Dock
 
 | Plan | vCPU | RAM | NVMe Storage | From |
 |---|---|---|---|---|
-| [KVM 1](https://hostinger.com/YOUR-VPS-LINK) | 1 core | 4 GB | 50 GB | $4.99/mo |
-| [KVM 2](https://hostinger.com/YOUR-VPS-LINK) | 2 cores | 8 GB | 100 GB | $7.99/mo |
-| [KVM 4](https://hostinger.com/YOUR-VPS-LINK) | 4 cores | 16 GB | 200 GB | $14.99/mo |
-| [KVM 8](https://hostinger.com/YOUR-VPS-LINK) | 8 cores | 32 GB | 400 GB | $29.99/mo |
+| [KVM 1](https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=2495) | 1 core | 4 GB | 50 GB | $4.99/mo |
+| [KVM 2](https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=2495) | 2 cores | 8 GB | 100 GB | $7.99/mo |
+| [KVM 4](https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=2495) | 4 cores | 16 GB | 200 GB | $14.99/mo |
+| [KVM 8](https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=2495) | 8 cores | 32 GB | 400 GB | $29.99/mo |
 
-👉 **[Get Hostinger VPS + apply code `vpsnest` at checkout](https://hostinger.com/YOUR-VPS-LINK)**
+👉 **[Get Hostinger VPS + apply code `vpsnest` at checkout](https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=2495)**
 
 ### Who Is Hostinger VPS For?
 
@@ -129,7 +129,7 @@ Full root access means you can run anything: Node.js apps, Python backends, Dock
 
 ## How to Apply a Hostinger Coupon Code – Step by Step
 
-1. Click your affiliate link — [Horizons](https://hostinger.com/YOUR-HORIZONS-LINK) | [Website Builder](https://hostinger.com/YOUR-BUILDER-LINK) | [VPS](https://hostinger.com/YOUR-VPS-LINK)
+1. Click your affiliate link — [Horizons]([https://hostinger.com/YOUR-HORIZONS-LINK](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395)) | [Website Builder](https://hostinger.com/YOUR-BUILDER-LINK) | [VPS](https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=2495)
 2. Select your plan and billing period (longer = bigger base discount)
 3. On the order summary page, click **"Have a promo code?"**
 4. Paste your code: `vibecodersnest`, `buildersnest`, or `vpsnest`
@@ -156,7 +156,7 @@ Full root access means you can run anything: Node.js apps, Python backends, Dock
 ## Frequently Asked Questions
 
 **Q1. What are the best Hostinger coupon codes in May 2026?**
-The three active community codes right now are `vibecodersnest` for Hostinger Horizons, `buildersnest` for Hostinger Website Builder, and `vpsnest` for Hostinger VPS. These are product-specific codes exclusive to the VibeCodersNest community. They apply on top of Hostinger's existing promotional pricing, so you're stacking a community discount on top of an already-reduced plan price. Get started: [Horizons](https://hostinger.com/YOUR-HORIZONS-LINK) | [Website Builder](https://hostinger.com/YOUR-BUILDER-LINK) | [VPS](https://hostinger.com/YOUR-VPS-LINK)
+The three active community codes right now are `vibecodersnest` for Hostinger Horizons, `buildersnest` for Hostinger Website Builder, and `vpsnest` for Hostinger VPS. These are product-specific codes exclusive to the VibeCodersNest community. They apply on top of Hostinger's existing promotional pricing, so you're stacking a community discount on top of an already-reduced plan price. Get started: [Horizons](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395) | [Website Builder](https://hostinger.com/YOUR-BUILDER-LINK) | [VPS](https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=2495)
 
 **Q2. Can I use a Hostinger coupon code on all plans?**
 These codes apply to the specific product they're designed for. `vibecodersnest` works on Hostinger Horizons plans (Explorer, Starter, Hobbyist, Hustler). `buildersnest` applies to Hostinger Website Builder plans. `vpsnest` works across all Hostinger KVM VPS plans (KVM 1 through KVM 8). Domain-only purchases and email-only orders are excluded. For best results, choose a 12-month or longer billing cycle before applying your code.
@@ -180,7 +180,7 @@ Hostinger does not offer a free trial, but every hosting plan comes with a 30-da
 For most beginners, KVM 1 is the right starting point. It provides 1 vCPU, 4 GB RAM, and 50 GB NVMe SSD — enough for hobby projects, personal apps, small APIs, and development environments. Apply `vpsnest` at checkout and upgrade to KVM 2 or KVM 4 from within hPanel when you need more resources. Hostinger VPS upgrades are seamless with no data loss.
 
 **Q9. Is Hostinger Horizons the same as Hostinger Website Builder?**
-No — they are two separate products with fundamentally different approaches. Hostinger Horizons is an AI-first platform where you describe what you want to build in a chat prompt and the AI generates a fully functional web application. Hostinger Website Builder is a traditional drag-and-drop editor where you visually assemble a website using pre-built blocks and templates. Horizons is better for custom functionality and web apps; Website Builder is better for standard sites like blogs, portfolios, and business pages. Use `vibecodersnest` for [Horizons](https://hostinger.com/YOUR-HORIZONS-LINK) and `buildersnest` for [Website Builder](https://hostinger.com/YOUR-BUILDER-LINK).
+No — they are two separate products with fundamentally different approaches. Hostinger Horizons is an AI-first platform where you describe what you want to build in a chat prompt and the AI generates a fully functional web application. Hostinger Website Builder is a traditional drag-and-drop editor where you visually assemble a website using pre-built blocks and templates. Horizons is better for custom functionality and web apps; Website Builder is better for standard sites like blogs, portfolios, and business pages. Use `vibecodersnest` for [Horizons]([https://hostinger.com/YOUR-HORIZONS-LINK](https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395)) and `buildersnest` for [Website Builder](https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=4827).
 
 **Q10. Do these coupon codes work in all countries?**
 Yes — `vibecodersnest`, `buildersnest`, and `vpsnest` are valid globally across all countries where Hostinger operates. Hostinger serves customers in 150+ countries and the discount is applied in your local currency at checkout. There are no geo-restrictions on these community codes.
@@ -205,9 +205,9 @@ Open an issue if a code stops working or you have questions.
 ## Quick Copy
 
 ```
-Hostinger Horizons:        vibecodersnest  →  https://hostinger.com/YOUR-HORIZONS-LINK
-Hostinger Website Builder: buildersnest    →  https://hostinger.com/YOUR-BUILDER-LINK
-Hostinger VPS:             vpsnest         →  https://hostinger.com/YOUR-VPS-LINK
+Hostinger Horizons:        vibecodersnest  →  https://www.hostg.xyz/aff_c?offer_id=1041&aff_id=223981&url_id=5395
+Hostinger Website Builder: buildersnest    →  https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=4827
+Hostinger VPS:             vpsnest         →  https://www.hostg.xyz/aff_c?offer_id=48&aff_id=223981&url_id=2495
 ```
 
 *Last verified: May 2026*
